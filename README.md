@@ -1,0 +1,1 @@
+# namepending-eclipse-plugin
